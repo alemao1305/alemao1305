@@ -62,6 +62,10 @@ Atualmente atuo como Analista de Suporte Jr, com foco no sistema TOTVS RM, além
 ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoftazure)
 ![VMware](https://img.shields.io/badge/-VMware-333333?style=flat)
 
+### 🛠️ Habilidades
+![TOTVS RM](https://img.shields.io/badge/TOTVS-RM-3670A0?style=for-the-badge&logo=totvs&logoColor=white)
+![TOTVS Fluig](https://img.shields.io/badge/TOTVS-Fluig-3670A0?style=for-the-badge&logo=fluig&logoColor=white)
+
 ---
 
 ## 🚀 Projetos
