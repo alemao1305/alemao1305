@@ -69,9 +69,7 @@ Atualmente atuo como Analista de Suporte Jr, com foco no sistema TOTVS RM, além
   <img src="https://img.shields.io/badge/TOTVS-Fluig-3670A0?style=for-the-badge" alt="TOTVS Fluig">
 </p>
 
-![TOTVS Fluig](assets/totvs-fluig.svg)
 ![TOTVS RM](https://img.shields.io/badge/TOTVS-RM-3670A0?style=for-the-badge&logo=totvs&logoColor=white)
-![TOTVS Fluig](https://img.shields.io/badge/TOTVS-Fluig-3670A0?style=for-the-badge&logo=fluig&logoColor=white)
 
 ---
 
